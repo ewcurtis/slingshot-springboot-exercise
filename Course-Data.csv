@@ -1,4 +1,4 @@
-advising_requisite_code	core_literature_requirement	course_catalog_text	course_code	course_code_number	course_code_prefix	course_code_sanitized	course_fees	course_title	default_credit_hours	division_code	fee_type	fixed_variable_credit	max_credit_hours	min_credit_hourse
+advising_requisite_code	core_literature_requirement	course_catalog_text	course_code	course_code_number	course_code_prefix	course_code_sanitized	course_fees	course_title	default_credit_hours	division_code	fee_type	fixed_variable_credit	max_credit_hours	min_credit_hours
 EDU270	Y	Analyzes and applies theory for teaching math PreK�8. Field experience required. Materials fee.  Prerequisite: concurrent enrollment in MAT205 or 206.	EDU  270                      	270	EDU	EDU-270	0	MATH METHODS	3	UG	Y	V	3	3
 EDU400	Y	Level PreK�6 or 5�12. Materials fee.	EDU  400                      	400	EDU	EDU-400	0	TEACHING ENGLISH AS SECOND LANG PRA	6	UG	Y	V	8	0
 MUS093	Y	NULL	MUS  093                      	93	MUS	MUS-093	0	WOODWIND CLASS	1	UG	Y	F	1	1
